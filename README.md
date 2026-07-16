@@ -97,7 +97,7 @@ Features
 
 ### Booking Confirmation
 
-![Booking Confirmation](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/book_flight_2.png)
+![Book Flight](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/BOOK%20FLIGHT2.png)
 ⸻
 
 🛫 Flight Information Module
