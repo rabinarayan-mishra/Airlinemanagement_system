@@ -122,7 +122,11 @@ Features
 * Passenger Details
 * Flight Information
 * PNR Display
+## 🎫 Boarding Pass
 
+### Passenger Boarding Pass
+
+![Boarding Pass](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/boarding_pass.png)
 ⸻
 
 📋 Journey Details Module
@@ -132,7 +136,11 @@ Features
 * Passenger Details
 * Flight Details
 * Journey Information
+## 🧳 Journey Details
 
+### Passenger Journey & Booking History
+
+![Journey Details](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/journey_details.png)
 ⸻
 
 ❌ Cancel Ticket Module
