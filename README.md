@@ -70,7 +70,13 @@ Features
 * MySQL Storage
 * Duplicate Record Prevention
 
+## 👤 Add Passenger
+
 ![Add Passenger Form](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/add_passenger_1.png)
+
+### Passenger Registration
+
+![Passenger Registration](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/add_passenger_2.png)
 ⸻
 
 ✈ Book Flight Module
