@@ -62,7 +62,7 @@ Features
 
 ⸻
 
-👤 Add Passenger Module
+## 👤 Add Passenger Module
 The Add Passenger module allows administrators to register new passengers by entering personal information such as name, gender, phone number, email, nationality, Aadhaar number, and passport number. All records are validated and stored securely in the MySQL database.
 Features
 * Passenger Registration
