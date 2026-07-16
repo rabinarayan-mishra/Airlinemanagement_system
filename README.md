@@ -79,7 +79,7 @@ Features
 ![Passenger Registration](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/add_passenger_2.png)
 ⸻
 
-✈ Book Flight Module
+## ✈ Book Flight Module
 The Book Flight module enables administrators to search passengers using their Aadhaar number and book flights based on the selected source and destination. The system automatically allocates seats, generates a unique PNR, stores booking information, and sends confirmation through Email and WhatsApp.
 Features
 * Passenger Search
@@ -100,7 +100,7 @@ Features
 ![Book Flight](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/BOOK%20FLIGHT2.png)
 ⸻
 
-🛫 Flight Information Module
+## 🛫 Flight Information Module
 This module displays available flights, including flight ID, flight name, source, destination, departure schedule, arrival schedule, and seat availability. It helps administrators quickly retrieve flight information.
 Features
 * Flight Search
@@ -115,7 +115,7 @@ Features
 
 ⸻
 
-🎫 Boarding Pass Module
+## 🎫 Boarding Pass Module
 After a successful booking, the Boarding Pass module generates the passenger’s boarding pass containing essential travel details such as passenger information, flight information, seat number, booking status, and PNR.
 Features
 * Boarding Pass Generation
@@ -129,7 +129,7 @@ Features
 ![Boarding Pass](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/boarding_pass.png)
 ⸻
 
-📋 Journey Details Module
+## 📋 Journey Details Module
 The Journey Details module provides a complete overview of booked journeys. It retrieves booking records from the database and displays travel information, allowing administrators to verify reservations easily.
 Features
 * Booking History
@@ -143,7 +143,7 @@ Features
 ![Journey Details](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/journey_details.png)
 ⸻
 
-❌ Cancel Ticket Module
+## ❌ Cancel Ticket Module
 The Cancel Ticket module enables administrators to cancel confirmed bookings using the generated PNR. Once cancelled, the booking status is updated in the database and the allocated seat becomes available again.
 Features
 * Ticket Cancellation
@@ -161,7 +161,7 @@ Features
 ![Cancellation Confirmation](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/cancel_ticket_2.png)
 ⸻
 
-📧 Email Notification Module
+## 📧 Email Notification Module
 This module automatically sends booking confirmation emails to passengers immediately after successful reservation. The email contains booking information including PNR, seat number, flight details, and booking status.
 Features
 * Automatic Email
@@ -174,7 +174,7 @@ Features
 ![Email Confirmation](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/email_confirmation.png)
 ⸻
 
-💬 WhatsApp Notification Module
+## 💬 WhatsApp Notification Module
 The WhatsApp integration sends instant booking confirmations directly to the passenger’s registered mobile number, improving communication and user experience.
 Features
 * Instant Notification
