@@ -150,7 +150,15 @@ Features
 * PNR Verification
 * Database Update
 * Seat Release
+## ❌ Cancel Ticket
 
+### Cancel Ticket Form
+
+![Cancel Ticket Form](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/cancel_ticket_1.png)
+
+### Cancellation Confirmation
+
+![Cancellation Confirmation](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/cancel_ticket_2.png)
 ⸻
 
 📧 Email Notification Module
@@ -159,7 +167,11 @@ Features
 * Automatic Email
 * Booking Summary
 * Confirmation Notification
+## 📧 Email Confirmation
 
+### Booking Confirmation Email
+
+![Email Confirmation](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/email_confirmation.png)
 ⸻
 
 💬 WhatsApp Notification Module
@@ -168,7 +180,11 @@ Features
 * Instant Notification
 * Booking Confirmation
 * Passenger Communication
+## 💬 WhatsApp Notification
 
+### Instant Booking Notification
+
+![WhatsApp Notification](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/whatsapp_notification.png)
 ⸻
 
 🗄️ Database
