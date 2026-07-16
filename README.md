@@ -1,5 +1,5 @@
-# Airlinemanagement_system
-✈ Airline Management System
+#  ✈ Airlinemanagement_system
+
 📖 Project Overview
 The Airline Management System is a desktop-based application developed using Python, Tkinter, and MySQL. It is designed to simplify airline reservation and passenger management by providing an intuitive graphical interface for administrators. The system automates passenger registration, flight booking, seat allocation, boarding pass generation, ticket cancellation, and journey management while maintaining all records securely in a MySQL database.
 The application follows a modular architecture where each module is responsible for a specific operation, making the system scalable, maintainable, and easy to understand. It also integrates Email and WhatsApp notification services to provide real-time booking confirmations, offering a practical simulation of a modern airline reservation system.
