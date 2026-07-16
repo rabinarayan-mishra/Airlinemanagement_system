@@ -107,6 +107,11 @@ Features
 * Route Information
 * Flight Details
 * Seat Availability
+## 🛫 Flight Information
+
+### Available Flights & Route Details
+
+![Flight Information](https://raw.githubusercontent.com/rabinarayan-mishra/Airlinemanagement_system/main/airlinemanagementsystem/assets/flight_information.png)
 
 ⸻
 
