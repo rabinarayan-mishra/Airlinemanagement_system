@@ -70,6 +70,8 @@ Features
 * MySQL Storage
 * Duplicate Record Prevention
 
+![Add Passenger Form](airlinemanagementsystem/assets/images/add_passenger_1.png)
+
 ⸻
 
 ✈ Book Flight Module
